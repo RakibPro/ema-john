@@ -1,0 +1,16 @@
+.navbar{
+    background: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px; 
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    margin-left: 35px;
+}
+.navbar a:hover{
+    color: orange;
+}
